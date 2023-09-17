@@ -1,0 +1,1 @@
+Obs: Todos os dados foram usandos como entradas para ambos os algoritmos. porém por terem tamanho superior à 25 MB os arquivos de tamanho 10000000 e 100000000 foram barrados pelo github e não pude fazer upload deles.
